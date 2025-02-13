@@ -10,3 +10,22 @@
     transform: translateY(0);
   }
 }
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-text {
+  opacity: 0;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 2s ease-out forwards;
+}
