@@ -13,6 +13,7 @@ import {
   SiTestinglibrary,
   SiGit,
   SiGithub,
+  SiNetlify,
 } from "react-icons/si";
 import { DiNodejs } from "react-icons/di"; // Fallback icon for Parcel
 
@@ -50,6 +51,10 @@ const Skills = () => {
     { name: "Git", icon: <SiGit className="w-10 h-10 text-[#F05032]" /> },
     { name: "GitHub", icon: <SiGithub className="w-10 h-10 text-[#181717]" /> },
     { name: "Parcel", icon: <DiNodejs className="w-10 h-10 text-[#F8C300]" /> }, // Fallback icon
+    {
+      name: "Netlify",
+      icon: <SiNetlify className="w-10 h-10 text-[#00C7B7]" />,
+    },
   ];
 
   return (
