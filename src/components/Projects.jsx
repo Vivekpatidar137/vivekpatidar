@@ -22,7 +22,7 @@ const Projects = () => {
       description:
         "An AI-powered movie recommendation web app with a Netflix-like UI. Discover movies by describing your preferences, watch trailer, and explore curated movie lists.",
       image: "src/assets/Project-StreamOracle.png",
-      link: "#",
+      link: "https://stream-oracle.web.app/",
       technologies: [
         "React",
         "Redux Toolkit",
@@ -92,6 +92,8 @@ const Projects = () => {
               </div>
               <a
                 href={project.link}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-block px-5 py-2 mt-2 text-white font-medium rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 hover:opacity-80 transition-opacity duration-300"
               >
                 View Project
