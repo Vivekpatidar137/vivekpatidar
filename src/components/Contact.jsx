@@ -47,7 +47,7 @@ const Contact = () => {
                 <FaGithub className="w-7 h-7" />
               </motion.a>
               <motion.a
-                href=""
+                href="https://www.linkedin.com/in/vivek-patidar137"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white hover:bg-blue-500 p-3 rounded-full transition-all shadow-md"
@@ -56,7 +56,7 @@ const Contact = () => {
                 <FaLinkedin className="w-7 h-7" />
               </motion.a>
               <motion.a
-                href=""
+                href="https://x.com/TheViivek"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white hover:bg-blue-400 p-3 rounded-full transition-all shadow-md"
@@ -65,7 +65,7 @@ const Contact = () => {
                 <FaTwitter className="w-7 h-7" />
               </motion.a>
               <motion.a
-                href=""
+                href="https://www.instagram.com/vivekpatidar137?igsh=MXVtNGxxbnpnemNraQ=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white hover:bg-pink-500 p-3 rounded-full transition-all shadow-md"
