@@ -6,7 +6,7 @@ const Projects = () => {
       description:
         "A dynamic culinary exploration app featuring an interactive dish carousel, restaurant menus, and a seamless shopping cart experience. Built with React, Redux, and Tailwind for a responsive and engaging UI.",
       image: "src/assets/Project-SpoonSwift.png",
-      link: "#",
+      link: "https://spoon-swift.vercel.app/",
       technologies: [
         "React",
         "Redux Toolkit",
@@ -38,7 +38,7 @@ const Projects = () => {
       description:
         "A modern, YouTube-like video streaming application utilizing the YouTube API. Features dynamic video suggestions, live chat, and an intuitive UI for an enhanced video streaming experience.",
       image: "src/assets/Project-VidNova.png",
-      link: "#",
+      link: "https://vidnova.vercel.app/",
       technologies: [
         "React",
         "Redux Toolkit",
