@@ -2,18 +2,17 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "SpoonSwift",
+      title: "VidNova",
       description:
-        "A dynamic culinary exploration app featuring an interactive dish carousel, restaurant menus, and a seamless shopping cart experience. Built with React, Redux, and Tailwind for a responsive and engaging UI.",
-      image: "src/assets/Project-SpoonSwift.png",
-      link: "https://spoon-swift.vercel.app/",
+        "A modern, YouTube-like video streaming application utilizing the YouTube API. Features dynamic video suggestions, live chat, and an intuitive UI for an enhanced video streaming experience.",
+      image: "src/assets/Project-VidNova.png",
+      link: "https://vidnova.vercel.app/",
       technologies: [
         "React",
         "Redux Toolkit",
         "Tailwind CSS",
-        "Parcel",
-        "Jest",
-        "React Testing Library",
+        "React Router",
+        "YouTube API",
       ],
     },
     {
@@ -34,17 +33,18 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "VidNova",
+      title: "SpoonSwift",
       description:
-        "A modern, YouTube-like video streaming application utilizing the YouTube API. Features dynamic video suggestions, live chat, and an intuitive UI for an enhanced video streaming experience.",
-      image: "src/assets/Project-VidNova.png",
-      link: "https://vidnova.vercel.app/",
+        "A dynamic culinary exploration app featuring an interactive dish carousel, restaurant menus, and a seamless shopping cart experience. Built with React, Redux, and Tailwind for a responsive and engaging UI.",
+      image: "src/assets/Project-SpoonSwift.png",
+      link: "https://spoon-swift.vercel.app/",
       technologies: [
         "React",
         "Redux Toolkit",
         "Tailwind CSS",
-        "React Router",
-        "YouTube API",
+        "Parcel",
+        "Jest",
+        "React Testing Library",
       ],
     },
   ];
