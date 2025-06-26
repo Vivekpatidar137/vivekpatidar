@@ -5,7 +5,7 @@ const Projects = () => {
       title: "VidNova",
       description:
         "A modern, YouTube-like video streaming application utilizing the YouTube API. Features dynamic video suggestions, live chat, and an intuitive UI for an enhanced video streaming experience.",
-      image: "src/assets/Project-VidNova.png",
+      image: "/Project-VidNova.png",
       link: "https://vidnova.vercel.app/",
       technologies: [
         "React",
@@ -20,7 +20,7 @@ const Projects = () => {
       title: "StreamOracle",
       description:
         "An AI-powered movie recommendation web app with a Netflix-like UI. Discover movies by describing your preferences, watch trailer, and explore curated movie lists.",
-      image: "src/assets/Project-StreamOracle.png",
+      image: "/Project-StreamOracle.png",
       link: "https://stream-oracle.web.app/",
       technologies: [
         "React",
@@ -36,7 +36,7 @@ const Projects = () => {
       title: "SpoonSwift",
       description:
         "A dynamic culinary exploration app featuring an interactive dish carousel, restaurant menus, and a seamless shopping cart experience. Built with React, Redux, and Tailwind for a responsive and engaging UI.",
-      image: "src/assets/Project-SpoonSwift.png",
+      image: "/Project-SpoonSwift.png",
       link: "https://spoon-swift.vercel.app/",
       technologies: [
         "React",
